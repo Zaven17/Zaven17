@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zaven
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently working as a Junior 3 Android Developer
 - 📫 How to reach me zaventadevosyan@yahoo.com
 
 <!---
